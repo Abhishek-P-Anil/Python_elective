@@ -1,0 +1,1 @@
+stock={"pencil":20,"pen":50,"eraser":30,"ruler":25,}
